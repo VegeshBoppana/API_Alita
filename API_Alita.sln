@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Alita", "API_Alita\API_Alita.csproj", "{E43E896B-F949-4386-BC11-37E0AE934576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{8225634F-BC8E-4D22-B711-115D44508776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43E896B-F949-4386-BC11-37E0AE934576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43E896B-F949-4386-BC11-37E0AE934576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43E896B-F949-4386-BC11-37E0AE934576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43E896B-F949-4386-BC11-37E0AE934576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8225634F-BC8E-4D22-B711-115D44508776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8225634F-BC8E-4D22-B711-115D44508776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8225634F-BC8E-4D22-B711-115D44508776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8225634F-BC8E-4D22-B711-115D44508776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB920033-064F-4169-A917-909CCA77BAC4}
+	EndGlobalSection
+EndGlobal
